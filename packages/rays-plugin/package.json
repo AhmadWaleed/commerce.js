@@ -1,0 +1,16 @@
+{
+  "name": "@chec/rays-plugin",
+  "version": "0.0.1",
+  "description": "Integrate directly with an editor within the Chec Dashboard - allowing customisation of your project by the merchant",
+  "main": "index.js",
+  "repository": "https://github.com/chec/commerce.js",
+  "author": "Chec Platform Ltd.",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "@chec/commerce.js": "^2.2.0",
+    "lodash.defaultsdeep": "^4.6.1",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2"
+  }
+}

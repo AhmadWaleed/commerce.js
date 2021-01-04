@@ -1,0 +1,19 @@
+{
+  "name": "@chec/react-commercejs-hooks",
+  "version": "0.0.1",
+  "description": "ReactJS hooks for usimg Commerce.js with React projects",
+  "main": "checkout/index.js",
+  "repository": "https://github.com/chec/commerce.js",
+  "author": "Chec Platform Ltd.",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@chec/commerce.js": "^2.2.0"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "@stripe/react-stripe-js": ">=1"
+  },
+  "optionalDependencies": {
+    "@stripe/react-stripe-js": ">=1"
+  }
+}
