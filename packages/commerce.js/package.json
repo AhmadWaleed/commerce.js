@@ -29,25 +29,6 @@
   },
   "author": "Chec Platform Inc",
   "license": "BSD-3-Clause",
-  "devDependencies": {
-    "@babel/core": "^7.6.2",
-    "@babel/plugin-transform-runtime": "^7.7.4",
-    "@babel/polyfill": "^7.6.0",
-    "@babel/preset-env": "^7.6.2",
-    "@babel/runtime": "^7.7.4",
-    "eslint": "^7.10.0",
-    "eslint-config-prettier": "^6.3.0",
-    "eslint-plugin-prettier": "^3.1.1",
-    "jest": "^26.5.2",
-    "jest-cli": "^24.9.0",
-    "prettier": "^1.18.2",
-    "rollup": "^2.29.0",
-    "rollup-plugin-babel": "^4.3.3",
-    "rollup-plugin-commonjs": "^10.1.0",
-    "rollup-plugin-json": "^4.0.0",
-    "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-terser": "^7.0.2"
-  },
   "jest": {
     "testRegex": ".*-test.jsx?$",
     "setupFiles": [
